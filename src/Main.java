@@ -112,4 +112,4 @@ if (map[0][0] ==Player_Field && map[0][1] == Player_Field && map[0][2] == Player
             }
         scanner = new Scanner(System.in);
     }
-} c
+}
